@@ -19,8 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "BTCN_TabLayout _BottomNavigation"
-include(":app")
-include(":app")
+rootProject.name = "btcn_tablayout_bottomnavigation"
 include(":app")
  
